@@ -1,6 +1,6 @@
 # SimpleInventoryApi.DefaultApi
 
-All URIs are relative to *https://virtserver.swaggerhub.com/freeline/av_public/1.0.0*
+All URIs are relative to *https://fdatek.2ce.de:5443/fcomputer/av_public/1.0.0*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------

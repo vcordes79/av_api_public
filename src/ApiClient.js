@@ -55,9 +55,9 @@
     /**
      * The base URL against which to resolve every API call's (relative) path.
      * @type {String}
-     * @default https://virtserver.swaggerhub.com/freeline/av_public/1.0.0
+     * @default https://fdatek.2ce.de:5443/fcomputer/av_public/1.0.0
      */
-    this.basePath = 'https://virtserver.swaggerhub.com/freeline/av_public/1.0.0'.replace(/\/+$/, '');
+    this.basePath = 'https://fdatek.2ce.de:5443/fcomputer/av_public/1.0.0'.replace(/\/+$/, '');
 
     /**
      * The authentication methods to be included for all API calls.
